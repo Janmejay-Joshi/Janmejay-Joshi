@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janmejay-joshi&label=Profile%20views&color=0e75b6&style=flat" alt="janmejay-joshi" /> </p>
 
-- 📝 I regularly write articles on [https://janmejay.vercel.app/posts](https://janmejay.vercel.app/posts)
+- 📝 I often write articles on [https://janmejay.vercel.app/posts](https://janmejay.vercel.app/posts)
 
 - 💬 Ask me about **Web Scraping, Web development, Robotics...**
 
