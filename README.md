@@ -3,13 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janmejay-joshi&label=Profile%20views&color=0e75b6&style=flat" alt="janmejay-joshi" /> </p>
 
-- 📝 I often write articles on [https://janmejay.vercel.app/posts](https://janmejay.vercel.app/posts)
 
-- 💬 Ask me about **Web Scraping, Web development, Robotics...**
+- 💬 Ask me about **Linux, Web development, Robotics...**
 
 - 📫 How to reach me **publish.janmejay@gmail.com**
 
 - ⚡ Fun fact **I love Anime and Manga**
+
+- 📝 I Seldom write articles on [https://janmejay.vercel.app/posts](https://janmejay.vercel.app/posts)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
